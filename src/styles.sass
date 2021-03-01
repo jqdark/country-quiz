@@ -1,0 +1,58 @@
+body
+    padding: 0
+    margin: 0
+    width: 100vw
+    height: 100vh
+    overflow: hidden
+    background-color: rgb(135, 180, 250)
+
+#map
+    width: 100%
+    height: 100%
+    object-fit: contain
+
+.ui
+    position: absolute
+    left: 0
+    bottom: 10pt
+    z-index: 1000
+    width: 100vw
+    display: flex
+    justify-content: center
+    padding: 8pt 0
+    background-color: rgba(0, 0, 0, 0.1)
+
+#nameBox
+    width: 350pt
+    margin: 0 20pt
+    font-size: 20pt
+    text-align: center
+    border: none
+    border-radius: 5pt
+    font-family: sans-serif
+
+.textBox
+    font-size: 20pt
+    font-weight: bold
+    color: white
+    text-shadow: 0 0 3px black
+    user-select: none
+    font-family: monospace
+
+#hint
+    position: absolute
+    top: 10pt
+    right: 10pt
+    z-index: 1000
+    font-size: 12pt
+    font-family: sans-serif
+    user-select: none
+
+g
+    fill: rgb(240, 235, 220)
+    &:hover
+        fill: rgb(200, 200, 200)
+    &.focused
+        fill: rgb(210, 180, 180)
+    &.solved
+        fill: rgb(180, 230, 180)

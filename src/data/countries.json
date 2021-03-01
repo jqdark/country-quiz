@@ -1,0 +1,1136 @@
+{
+    "country-647b350ab3f5466eb26ba7e36acfcd41": {
+        "name": "Afghanistan",
+        "accept": [
+            "afghanistan"
+        ]
+    },
+    "country-d539c938078e42fc8e3ef4212799806c": {
+        "name": "Angola",
+        "accept": [
+            "angola"
+        ]
+    },
+    "country-ada6b4894d2b42258c87d2b544aff600": {
+        "name": "Albania",
+        "accept": [
+            "albania"
+        ]
+    },
+    "country-da35d99ec601403586186e4005421961": {
+        "name": "UAE",
+        "accept": [
+            "uae", "united arab emirates"
+        ]
+    },
+    "country-a55d9d7b6fec4e71ba1a45fad9c72fe5": {
+        "name": "Argentina",
+        "accept": [
+            "argentina"
+        ]
+    },
+    "country-e3f33f35d3434e4b834b45abf792b02c": {
+        "name": "Armenia",
+        "accept": [
+            "armenia"
+        ]
+    },
+    "country-761699ddff0c4abf933332be68db524b": {
+        "name": "Australia",
+        "accept": [
+            "australia"
+        ]
+    },
+    "country-4d6897ef1d9f41078c0e944d0e74307a": {
+        "name": "Austria",
+        "accept": [
+            "austria"
+        ]
+    },
+    "country-37cd5c0359664788a7c728f6651ca8df": {
+        "name": "Azerbaijan",
+        "accept": [
+            "azerbaijan"
+        ]
+    },
+    "country-a185cd28418f4c72a78a9cd999da5101": {
+        "name": "Burundi",
+        "accept": [
+            "burundi"
+        ]
+    },
+    "country-2576a7d89b1b46fbb4284b2168f93943": {
+        "name": "Belgium",
+        "accept": [
+            "belgium"
+        ]
+    },
+    "country-1dd2748608ff47228a1a57052dff230c": {
+        "name": "Benin",
+        "accept": [
+            "benin"
+        ]
+    },
+    "country-dac88149111b4ff6bd7a4fdb2077ce01": {
+        "name": "Burkina Faso",
+        "accept": [
+            "burkina faso"
+        ]
+    },
+    "country-61e76a49e7ea435d96e8a82dc239eb6c": {
+        "name": "Bangladesh",
+        "accept": [
+            "bangladesh"
+        ]
+    },
+    "country-7bca683e85e24fb39f61dee19e53efe3": {
+        "name": "Bulgaria",
+        "accept": [
+            "bulgaria"
+        ]
+    },
+    "country-026daeaf120441c59af2c09026c202b2": {
+        "name": "Bosnia and Herzegovina",
+        "accept": [
+            "bosnia and herzegovina", "bosnia", "bosnia herzegovina"
+        ]
+    },
+    "country-34b63d21f6404ce0bf9ff199214c06d2": {
+        "name": "Belarus",
+        "accept": [
+            "belarus"
+        ]
+    },
+    "country-1d3376958fba43f6b098b5952f269a16": {
+        "name": "Belize",
+        "accept": [
+            "belize"
+        ]
+    },
+    "country-7b9ecd3b02ac4a1d93c1c557eea1c67c": {
+        "name": "Bolivia",
+        "accept": [
+            "bolivia"
+        ]
+    },
+    "country-86e372f2a4844dfba5f1bc7da39f1341": {
+        "name": "Brazil",
+        "accept": [
+            "brazil"
+        ]
+    },
+    "country-8d8c2ecba0f048a38c306aeaa6f4c554": {
+        "name": "Brunei",
+        "accept": [
+            "brunei", "brunei darussalam"
+        ]
+    },
+    "country-e4a0473c030a425a989bb1c349a01ee1": {
+        "name": "Bhutan",
+        "accept": [
+            "bhutan"
+        ]
+    },
+    "country-044cb1a8447f47eaa0f66145455e73bf": {
+        "name": "Botswana",
+        "accept": [
+            "botswana"
+        ]
+    },
+    "country-e113addcbb3744b2ad285e7819299fc7": {
+        "name": "Central African Republic",
+        "accept": [
+            "car", "central african republic"
+        ]
+    },
+    "country-8a40911c821f479594130bcb794af06f": {
+        "name": "Canada",
+        "accept": [
+            "canada"
+        ]
+    },
+    "country-b6cc1dceb1cf4433bb0de01d75ffb297": {
+        "name": "Switzerland",
+        "accept": [
+            "switzerland"
+        ]
+    },
+    "country-f728ce7eb86040fcbf592b408b1954da": {
+        "name": "China",
+        "accept": [
+            "china"
+        ]
+    },
+    "country-00df1a618549426d8c127428d66733f5": {
+        "name": "Côte d'Ivoire",
+        "accept": [
+            "ivory coast", "cote d'ivoire"
+        ]
+    },
+    "country-89e93c4535ec4affad0e66964613e3db": {
+        "name": "Cameroon",
+        "accept": [
+            "cameroon"
+        ]
+    },
+    "country-6c74887316464934a2050b38ec6201dd": {
+        "name": "Democratic Republic of the Congo",
+        "accept": [
+            "drc", "democratic republic of the congo", "dr congo", "congo kinshasa"
+        ]
+    },
+    "country-5584742ce47d45fead152b193abd47d8": {
+        "name": "Republic of the Congo",
+        "accept": [
+            "republic of the congo", "congo republic", "congo brazzaville"
+        ]
+    },
+    "country-416c469c0e3845c0865d635aea35278d": {
+        "name": "Colombia",
+        "accept": [
+            "colombia"
+        ]
+    },
+    "country-54d06b53c60a4c46975e5237703bcdfd": {
+        "name": "Costa Rica",
+        "accept": [
+            "costa rica"
+        ]
+    },
+    "country-2c260e2e7b584d23878ae2cbff1e98c8": {
+        "name": "Cuba",
+        "accept": [
+            "cuba"
+        ]
+    },
+    "country-d72a009b6e944c0ab82c40b5ccc54709": {
+        "name": "Czechia",
+        "accept": [
+            "czechia", "czech republic"
+        ]
+    },
+    "country-5a817a646ab347dab6cf27eb10f90f32": {
+        "name": "Germany",
+        "accept": [
+            "germany"
+        ]
+    },
+    "country-1c5b4a8f82064d0c90cc80bf3418af3a": {
+        "name": "Djibouti",
+        "accept": [
+            "djibouti"
+        ]
+    },
+    "country-4a24919e83e144e4ac45ad8f909a9e5e": {
+        "name": "Denmark",
+        "accept": [
+            "denmark", "kingdom of denmark"
+        ]
+    },
+    "country-13a12230378140eca7f36f3ec3185bcc": {
+        "name": "Dominican Republic",
+        "accept": [
+            "dominican republic"
+        ]
+    },
+    "country-b070d77fc343479abca64e35e3203a04": {
+        "name": "Algeria",
+        "accept": [
+            "algeria"
+        ]
+    },
+    "country-9d6dea5b491343df95515297085d46e8": {
+        "name": "Ecuador",
+        "accept": [
+            "ecuador"
+        ]
+    },
+    "country-6935b110e23c469b931a52563e4e9687": {
+        "name": "Egypt",
+        "accept": [
+            "egypt"
+        ]
+    },
+    "country-c21544ba46f2406eb47b7f2c9a0cffe0": {
+        "name": "Eritrea",
+        "accept": [
+            "eritrea"
+        ]
+    },
+    "country-1a6ca49773fb4340bf5f553d5d226dae": {
+        "name": "Estonia",
+        "accept": [
+            "estonia"
+        ]
+    },
+    "country-e23a518a2eaa4f09bee07729000cf08b": {
+        "name": "Ethiopia",
+        "accept": [
+            "ethiopia"
+        ]
+    },
+    "country-946a735243c24b328648f5905cd0971c": {
+        "name": "Finland",
+        "accept": [
+            "finland"
+        ]
+    },
+    "country-81c8c902f6e540669ebf1aa1bbcfc85d": {
+        "name": "Gabon",
+        "accept": [
+            "gabon"
+        ]
+    },
+    "country-965c63b9421442f68b55a59ebc92145a": {
+        "name": "United Kingdom",
+        "accept": [
+            "uk", "united kingdom", "united kingdom of great britain and northern ireland", "britain"
+        ]
+    },
+    "country-84829cb9991a419e8aba0595a66c50f8": {
+        "name": "Georgia",
+        "accept": [
+            "georgia"
+        ]
+    },
+    "country-a8ae720da01948d38f816574debe4aeb": {
+        "name": "Ghana",
+        "accept": [
+            "ghana"
+        ]
+    },
+    "country-8e33e75befd34361a80eb829d45681e4": {
+        "name": "Guinea",
+        "accept": [
+            "guinea"
+        ]
+    },
+    "country-dc7099a8498346b2b11beff568366130": {
+        "name": "Gambia",
+        "accept": [
+            "gambia"
+        ]
+    },
+    "country-349db31f143a46ac9547d53a89fd1fd4": {
+        "name": "Guinea-Bissau",
+        "accept": [
+            "guinea bissau"
+        ]
+    },
+    "country-9a173f3b5d054a1b90875f1f4c73da17": {
+        "name": "Equatorial Guinea",
+        "accept": [
+            "equatorial guinea"
+        ]
+    },
+    "country-745e824911764adfbe3fcfecadd8c70b": {
+        "name": "Greece",
+        "accept": [
+            "greece"
+        ]
+    },
+    "country-9570d83ac5e14187b7802f1fab792d31": {
+        "name": "Guatemala",
+        "accept": [
+            "guatemala"
+        ]
+    },
+    "country-91143a70002e409398261ac9c44bc888": {
+        "name": "Guyana",
+        "accept": [
+            "guyana"
+        ]
+    },
+    "country-109832186c75428293fed04b3fce2c94": {
+        "name": "Honduras",
+        "accept": [
+            "honduras"
+        ]
+    },
+    "country-c2c78918f1744084ae9df5aa55232fb6": {
+        "name": "Croatia",
+        "accept": [
+            "croatia"
+        ]
+    },
+    "country-9edbe6ef6c7f4623b0219457ca2b5a70": {
+        "name": "Haiti",
+        "accept": [
+            "haiti"
+        ]
+    },
+    "country-404c6b89c9f4439fb6a3302bba9efc49": {
+        "name": "Hungary",
+        "accept": [
+            "hungary"
+        ]
+    },
+    "country-3030ce40618a4ca9ae1eb2a9d4f63dad": {
+        "name": "Indonesia",
+        "accept": [
+            "indonesia"
+        ]
+    },
+    "country-e43ce2c54fcb4b55875b527c46c69dda": {
+        "name": "India",
+        "accept": [
+            "india"
+        ]
+    },
+    "country-7b24ade07d1642f6a8860cc9ebbdff71": {
+        "name": "Ireland",
+        "accept": [
+            "ireland"
+        ]
+    },
+    "country-98d76cd5f78b42a5b78cb6c827aee40a": {
+        "name": "Iran",
+        "accept": [
+            "iran", "islamic republic of iran"
+        ]
+    },
+    "country-fd4a03fa9ede429ea7c73a07d59ea616": {
+        "name": "Iraq",
+        "accept": [
+            "iraq"
+        ]
+    },
+    "country-139c99cb274048f886e8e5cf9f311c0d": {
+        "name": "Iceland",
+        "accept": [
+            "iceland"
+        ]
+    },
+    "country-eecef7a79f9f4da7953669bf2f0a7593": {
+        "name": "Israel",
+        "accept": [
+            "israel"
+        ]
+    },
+    "country-d919d55e33964bd19f1ce81e997d217f": {
+        "name": "Italy",
+        "accept": [
+            "italy"
+        ]
+    },
+    "country-edd6f6adab084ff3b186fff0e19de197": {
+        "name": "Jamaica",
+        "accept": [
+            "jamaica"
+        ]
+    },
+    "country-b7fe68db8fa045a3a16639400c984094": {
+        "name": "Jordan",
+        "accept": [
+            "jordan"
+        ]
+    },
+    "country-65014694391e4a1a9bb6a559705408b5": {
+        "name": "Japan",
+        "accept": [
+            "japan"
+        ]
+    },
+    "country-f9514a74dafe4a2ba4a45a48302f8ccb": {
+        "name": "Kazakhstan",
+        "accept": [
+            "kazakhstan"
+        ]
+    },
+    "country-a2dec9b01f7142bc80afde6aea897e67": {
+        "name": "Kenya",
+        "accept": [
+            "kenya"
+        ]
+    },
+    "country-fd47c263be53488d9ec34feeba4a03d5": {
+        "name": "Kyrgyzstan",
+        "accept": [
+            "kyrgyzstan"
+        ]
+    },
+    "country-974a06804ab940f1b40b7d8cc9d96fc1": {
+        "name": "Cambodia",
+        "accept": [
+            "cambodia"
+        ]
+    },
+    "country-1b2e4d6f73df4cdfbf71a83f4ab601c9": {
+        "name": "South Korea",
+        "accept": [
+            "south korea", "republic of korea"
+        ]
+    },
+    "country-0f4697729b694071b3c04501fadc2a8e": {
+        "name": "Kuwait",
+        "accept": [
+            "kuwait"
+        ]
+    },
+    "country-799396fdffa74693a7ab5df251919641": {
+        "name": "Laos",
+        "accept": [
+            "laos"
+        ]
+    },
+    "country-bc57db342f0c401ab39282d0a185a697": {
+        "name": "Lebanon",
+        "accept": [
+            "lebanon"
+        ]
+    },
+    "country-fdd0f5e9741349b490af49a65ecb2bd0": {
+        "name": "Liberia",
+        "accept": [
+            "liberia"
+        ]
+    },
+    "country-ed1252d5a70744e396a83237506e78a6": {
+        "name": "Libya",
+        "accept": [
+            "libya"
+        ]
+    },
+    "country-1d1ddc88001547e5bc90d03f916311d8": {
+        "name": "Sri Lanka",
+        "accept": [
+            "sri lanka"
+        ]
+    },
+    "country-fde59d9e9a5e431ab02db62ece873883": {
+        "name": "Lesotho",
+        "accept": [
+            "lesotho"
+        ]
+    },
+    "country-e8157d11fa3e4d868b99653f9d385bec": {
+        "name": "Lithuania",
+        "accept": [
+            "lithuania"
+        ]
+    },
+    "country-295e1b26e39049a3b59775e1dc4b52a7": {
+        "name": "Luxembourg",
+        "accept": [
+            "luxembourg"
+        ]
+    },
+    "country-5ee1ae1f85ab44d4963b0aaf88f68fd7": {
+        "name": "Latvia",
+        "accept": [
+            "latvia"
+        ]
+    },
+    "country-0191312ad5a94de8a28f3c2ff880e522": {
+        "name": "Morocco",
+        "accept": [
+            "morocco"
+        ]
+    },
+    "country-022c11787a8a496b97ee867de5623e8b": {
+        "name": "Moldova",
+        "accept": [
+            "moldova"
+        ]
+    },
+    "country-7b9753c07c3a4e2bafd1ed5afbf94f4a": {
+        "name": "Madagascar",
+        "accept": [
+            "madagascar"
+        ]
+    },
+    "country-44f4cca7fd9945159c99c9f30f4853b8": {
+        "name": "Mexico",
+        "accept": [
+            "mexico"
+        ]
+    },
+    "country-f825e69caebc4f2e98d5d9268f1e8a3c": {
+        "name": "Macedonia",
+        "accept": [
+            "macedonia"
+        ]
+    },
+    "country-3688adff42384ca48f34d0cc7f163aca": {
+        "name": "Mali",
+        "accept": [
+            "mali"
+        ]
+    },
+    "country-dd0cb171b5854fca99174a6848d7b576": {
+        "name": "Myanmar",
+        "accept": [
+            "myanmar"
+        ]
+    },
+    "country-9dd3e388d59b41aa88e765dacf669cee": {
+        "name": "Montenegro",
+        "accept": [
+            "montenegro"
+        ]
+    },
+    "country-f051739df0f8420392f154a115cf53e7": {
+        "name": "Mongolia",
+        "accept": [
+            "mongolia"
+        ]
+    },
+    "country-53a2adec39fb4d8aa8668fc9b4b7e326": {
+        "name": "Mozambique",
+        "accept": [
+            "mozambique"
+        ]
+    },
+    "country-ef746098ce53447a9598d294c574074f": {
+        "name": "Mauritania",
+        "accept": [
+            "mauritania"
+        ]
+    },
+    "country-5298aef01b9545bba9498da99e9f62ac": {
+        "name": "Malawi",
+        "accept": [
+            "malawi"
+        ]
+    },
+    "country-5c88ba84b500444fb35f7020b7b0b59a": {
+        "name": "Malaysia",
+        "accept": [
+            "malaysia"
+        ]
+    },
+    "country-74c654e88ee64f649ec917cb173f24a5": {
+        "name": "Namibia",
+        "accept": [
+            "namibia"
+        ]
+    },
+    "country-918f31b1e1d1401389044d6f8e61851d": {
+        "name": "Niger",
+        "accept": [
+            "niger"
+        ]
+    },
+    "country-84381437efc14c62acdafb76e255b51b": {
+        "name": "Nigeria",
+        "accept": [
+            "nigeria"
+        ]
+    },
+    "country-40f03bd180674efeaeafa61938a2c015": {
+        "name": "Nicaragua",
+        "accept": [
+            "nicaragua"
+        ]
+    },
+    "country-4f65ce45bcda4eb3b8abb2e3fbd06bc3": {
+        "name": "Norway",
+        "accept": [
+            "norway"
+        ]
+    },
+    "country-bcc0c2a31fa1451ebde1b4d22ffa0799": {
+        "name": "Nepal",
+        "accept": [
+            "nepal"
+        ]
+    },
+    "country-f8b85c61fa1a40b290b31a1de7c4b64d": {
+        "name": "Oman",
+        "accept": [
+            "oman"
+        ]
+    },
+    "country-8a5bf6618a244a93b844174394fbfeed": {
+        "name": "Pakistan",
+        "accept": [
+            "pakistan"
+        ]
+    },
+    "country-3c69453f13b6468094b50823dc21b450": {
+        "name": "Panama",
+        "accept": [
+            "panama"
+        ]
+    },
+    "country-6fd3833af1574bff98db6464faeb563e": {
+        "name": "Peru",
+        "accept": [
+            "peru"
+        ]
+    },
+    "country-1f47a147e02847bab148a64dff4bcaf3": {
+        "name": "Philippines",
+        "accept": [
+            "philippines"
+        ]
+    },
+    "country-575b1257c4a24f01bb9c51e681b5094c": {
+        "name": "Papua New Guinea",
+        "accept": [
+            "papua new guinea"
+        ]
+    },
+    "country-d7ec880227f44d70bfb33387edfd5ea6": {
+        "name": "Poland",
+        "accept": [
+            "poland"
+        ]
+    },
+    "country-0bd0787c8ea54b878455f6991c7b698b": {
+        "name": "North Korea",
+        "accept": [
+            "north korea", "democratic people's republic of korea", "dpr korea"
+        ]
+    },
+    "country-5633e58db0d24e91b25eea74910f9afe": {
+        "name": "Paraguay",
+        "accept": [
+            "paraguay"
+        ]
+    },
+    "country-6ece0c9a1475487c844ba8fec2aee901": {
+        "name": "Palestine",
+        "accept": [
+            "palestine"
+        ]
+    },
+    "country-3995b407aa6f4e0fb0610cf56784913e": {
+        "name": "Qatar",
+        "accept": [
+            "qatar"
+        ]
+    },
+    "country-659e33acb69944a081f9f49ad3fa6f17": {
+        "name": "Romania",
+        "accept": [
+            "romania"
+        ]
+    },
+    "country-550f28cd0e2d4cbf85007bfd1f6da0bd": {
+        "name": "Rwanda",
+        "accept": [
+            "rwanda"
+        ]
+    },
+    "country-c017db416a5547a681c5bc28e70a13dd": {
+        "name": "Saudi Arabia",
+        "accept": [
+            "saudi arabia"
+        ]
+    },
+    "country-9c5b73d80b784997905902480256b21d": {
+        "name": "Sudan",
+        "accept": [
+            "sudan"
+        ]
+    },
+    "country-19ff6d1f1d7d4a29a3f01c97cf8210db": {
+        "name": "South Sudan",
+        "accept": [
+            "south sudan"
+        ]
+    },
+    "country-43506611401d4cbe9260af367ff8ae0e": {
+        "name": "Senegal",
+        "accept": [
+            "senegal"
+        ]
+    },
+    "country-68d1fdead00b43808546888f151efbb0": {
+        "name": "Sierra Leone",
+        "accept": [
+            "sierra leone"
+        ]
+    },
+    "country-652b4c6195ee4f71aa87e6048ceac00c": {
+        "name": "El Salvador",
+        "accept": [
+            "el salvador"
+        ]
+    },
+    "country-c8157e5ae6854cea982496dc97c49862": {
+        "name": "Serbia",
+        "accept": [
+            "serbia"
+        ]
+    },
+    "country-fc9f444d9c834a9dbd2fb0eeaa2e52a2": {
+        "name": "Suriname",
+        "accept": [
+            "suriname"
+        ]
+    },
+    "country-5ca6ded7b1b54617b0476de3339cf901": {
+        "name": "Slovakia",
+        "accept": [
+            "slovakia"
+        ]
+    },
+    "country-15aec677e68b458b9063c7fa190097cc": {
+        "name": "Slovenia",
+        "accept": [
+            "slovenia"
+        ]
+    },
+    "country-704a28e4088b4e8eb65882d771d66f73": {
+        "name": "Sweden",
+        "accept": [
+            "sweden"
+        ]
+    },
+    "country-57b910881323456eb9767c01923eeb94": {
+        "name": "Eswatini",
+        "accept": [
+            "eswatini", "swaziland"
+        ]
+    },
+    "country-2d46af945b394af9a3452331056877c2": {
+        "name": "Syria",
+        "accept": [
+            "syria"
+        ]
+    },
+    "country-c1dd2e3600e54cdcb51517740b53c7e2": {
+        "name": "Chad",
+        "accept": [
+            "chad"
+        ]
+    },
+    "country-275733e21feb4ec9a6cc6fbc4124fb0c": {
+        "name": "Togo",
+        "accept": [
+            "togo"
+        ]
+    },
+    "country-d9420440fffb4dadabf537da1da17d44": {
+        "name": "Thailand",
+        "accept": [
+            "thailand"
+        ]
+    },
+    "country-a4f53a9d18134128800d0b984141f012": {
+        "name": "Tajikistan",
+        "accept": [
+            "tajikistan"
+        ]
+    },
+    "country-64fd3d5cbfdd4b9c939bb64fc0e884f7": {
+        "name": "Turkmenistan",
+        "accept": [
+            "turkmenistan"
+        ]
+    },
+    "country-df1ad946880547e5a0f7798b0dd7f6dd": {
+        "name": "East Timor",
+        "accept": [
+            "east timor", "timor leste"
+        ]
+    },
+    "country-e66d4f3399224abfbadf83b940a4fa18": {
+        "name": "Tunisia",
+        "accept": [
+            "tunisia"
+        ]
+    },
+    "country-436421a691f540f792f6f8b63e0d738d": {
+        "name": "Turkey",
+        "accept": [
+            "turkey"
+        ]
+    },
+    "country-45a65d134c7047feaec3934aa7984562": {
+        "name": "Taiwan",
+        "accept": [
+            "taiwan"
+        ]
+    },
+    "country-7348f9a5c4a4455aab02eb5a64e7b3d9": {
+        "name": "Tanzania",
+        "accept": [
+            "tanzania"
+        ]
+    },
+    "country-7b5dc820850141748558ee4b163d16ee": {
+        "name": "Uganda",
+        "accept": [
+            "uganda"
+        ]
+    },
+    "country-bdd6d0c6284f40ff8a6e0a0e01907ac9": {
+        "name": "Ukraine",
+        "accept": [
+            "ukraine"
+        ]
+    },
+    "country-8cbe9fa624cc4cd8b773def0b55bfbfc": {
+        "name": "Uruguay",
+        "accept": [
+            "uruguay"
+        ]
+    },
+    "country-5da926cb58c34bdc8256fe422145a5f7": {
+        "name": "Uzbekistan",
+        "accept": [
+            "uzbekistan"
+        ]
+    },
+    "country-4a834d16036947b6a4335aac10d4bbf0": {
+        "name": "Venezuela",
+        "accept": [
+            "venezuela"
+        ]
+    },
+    "country-94ff3afc2b9f4349b4aa2cc8b8eae2f7": {
+        "name": "Vietnam",
+        "accept": [
+            "vietnam", "viet nam"
+        ]
+    },
+    "country-ee88e955c9e4420c8668dc5659eadf75": {
+        "name": "Yemen",
+        "accept": [
+            "yemen"
+        ]
+    },
+    "country-c2c09df35a3044d788eeaf441512e1d7": {
+        "name": "Zambia",
+        "accept": [
+            "zambia"
+        ]
+    },
+    "country-277e3466d90747c4a079e05d81374a37": {
+        "name": "Zimbabwe",
+        "accept": [
+            "zimbabwe"
+        ]
+    },
+    "country-baf05ee7ba8e4d6d956be5350c357262": {
+        "name": "Somalia",
+        "accept": [
+            "somalia"
+        ]
+    },
+    "country-913a179a8870408d95e384d649b5ead2": {
+        "name": "South Africa",
+        "accept": [
+            "south africa"
+        ]
+    },
+    "country-e769fab2823847b5aced5b3de4cc4264": {
+        "name": "New Zealand",
+        "accept": [
+            "new zealand"
+        ]
+    },
+    "country-1df2c28ef6ea4b8ea6bc993506ea74a4": {
+        "name": "Chile",
+        "accept": [
+            "chile"
+        ]
+    },
+    "country-b18e675a197b4a4e8b53b96e5c47061e": {
+        "name": "Netherlands",
+        "accept": [
+            "netherlands"
+        ]
+    },
+    "country-fec1228ff2624f6b88d0611c9341b86c": {
+        "name": "Portugal",
+        "accept": [
+            "portugal"
+        ]
+    },
+    "country-5176b3cf0e554ed9ad4a858e146dedbb": {
+        "name": "Russia",
+        "accept": [
+            "russia"
+        ]
+    },
+    "country-10d40a533f554478b6da33dc90670030": {
+        "name": "Spain",
+        "accept": [
+            "spain"
+        ]
+    },
+    "country-65c6b2d1ab42499398a5dab13e5c337d": {
+        "name": "France",
+        "accept": [
+            "france"
+        ]
+    },
+    "country-d7815c1f855e4fdbbd82d010f3490daf": {
+        "name": "United State of America",
+        "accept": [
+            "us", "usa", "united states", "united states of america", "america"
+        ]
+    },
+    "country-b6725a45b1e8419bb2ea0c6de00e443f": {
+        "name": "Antigua and Barbuda",
+        "accept": [
+            "antigua and barbuda"
+        ]
+    },
+    "country-ca7fa49ff22d4e1bb995a85c931b8224": {
+        "name": "Bahrain",
+        "accept": [
+            "bahrain"
+        ]
+    },
+    "country-9b14d593e4684cbdbe8672b01e3efd54": {
+        "name": "Bahamas",
+        "accept": [
+            "bahamas"
+        ]
+    },
+    "country-26842865fcaf48c186aa4f2129028bde": {
+        "name": "Barbados",
+        "accept": [
+            "barbados"
+        ]
+    },
+    "country-27368074a9ff42c5ac24a484a9643d47": {
+        "name": "Comoros",
+        "accept": [
+            "comoros"
+        ]
+    },
+    "country-dbfaa2e32fd045f9a8d93412946a8d93": {
+        "name": "Cape Verde",
+        "accept": [
+            "cape verde", "cabo verde"
+        ]
+    },
+    "country-58691c8159dc4b8b8c96065ebe72aed4": {
+        "name": "Cyprus",
+        "accept": [
+            "cyprus"
+        ]
+    },
+    "country-8d5a44031ffe4a68a1fd8023ff295792": {
+        "name": "Dominica",
+        "accept": [
+            "dominica"
+        ]
+    },
+    "country-db6bf23997c1401e8b8afc5d27371229": {
+        "name": "Micronesia",
+        "accept": [
+            "micronesia"
+        ]
+    },
+    "country-07d309fc21e54a5fb507bd44767999c3": {
+        "name": "Grenada",
+        "accept": [
+            "grenada"
+        ]
+    },
+    "country-129a4e5cf4c04362b1cff26693fb88bd": {
+        "name": "Saint Kitts and Nevis",
+        "accept": [
+            "saint kitts and nevis"
+        ]
+    },
+    "country-01d242121b0b4bca830309009203eaf6": {
+        "name": "Saint Lucia",
+        "accept": [
+            "saint lucia"
+        ]
+    },
+    "country-9730f0ab808f46eab8ecf0a4f30bd264": {
+        "name": "Maldives",
+        "accept": [
+            "maldives"
+        ]
+    },
+    "country-35d03f9b036e48a0a6822c98724f4174": {
+        "name": "Marshall Islands",
+        "accept": [
+            "marshall islands"
+        ]
+    },
+    "country-1b195572f93f4878b866c212d150949e": {
+        "name": "Malta",
+        "accept": [
+            "malta"
+        ]
+    },
+    "country-ff6d5f47f4d44d77ad4feb6496cd24f2": {
+        "name": "Mauritius",
+        "accept": [
+            "mauritius"
+        ]
+    },
+    "country-83a6e607555a4367ba3a610d0dab3d98": {
+        "name": "Nauru",
+        "accept": [
+            "nauru"
+        ]
+    },
+    "country-740498a876ee4db19769ec2e734ba4e7": {
+        "name": "Palau",
+        "accept": [
+            "palau"
+        ]
+    },
+    "country-dcb4cb8690344319ae10cf35600f3281": {
+        "name": "Solomon Islands",
+        "accept": [
+            "solomon islands"
+        ]
+    },
+    "country-fad2645ae8d8475caf417f93f265d380": {
+        "name": "São Tomé and Príncipe",
+        "accept": [
+            "sao tome and principe"
+        ]
+    },
+    "country-c0c38ff048db4c088003149ab8d9d102": {
+        "name": "Seychelles",
+        "accept": [
+            "seychelles"
+        ]
+    },
+    "country-3c3889f373814744ad2f61b5149985f8": {
+        "name": "Tonga",
+        "accept": [
+            "tonga"
+        ]
+    },
+    "country-a2365203d5b547248b86342919afa86e": {
+        "name": "Trinidad and Tobago",
+        "accept": [
+            "trinidad and tobago"
+        ]
+    },
+    "country-593fb1dc647446079c98835167573dc5": {
+        "name": "Tuvalu",
+        "accept": [
+            "tuvalu"
+        ]
+    },
+    "country-7b4fe3cd55c543739a6eb67957c2d34d": {
+        "name": "Saint Vincent and the Grenadines",
+        "accept": [
+            "saint vincent and the grenadines"
+        ]
+    },
+    "country-946e9081977741c1a86315a228d306bb": {
+        "name": "Vanuatu",
+        "accept": [
+            "vanuatu"
+        ]
+    },
+    "country-a45c237cd24d446990ab89a2fe669a84": {
+        "name": "Samoa",
+        "accept": [
+            "samoa"
+        ]
+    },
+    "country-b8e2d87520214ca8be638f0a989ed7ba": {
+        "name": "Fiji",
+        "accept": [
+            "fiji"
+        ]
+    }
+}
