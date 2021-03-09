@@ -4,22 +4,47 @@ import _ from "lodash-core";
 export default class Game {
 
     /**
+     * Callback function to validate names.
+     * @callback validateCallback
      * 
+     * @param {string} id                           - ID of currently selected element.
+     * @param {string} name                         - Input name to validate.
+     * @returns {boolean}                           - Is the name valid for that ID?
+     */
+
+    /**
+     * Interface for a simple stopwatch.
+     * @typedef Timer
+     * 
+     * @property {Function} start                   - Start or continue the timer.
+     * @property {Function} stop                    - Pause the timer.
+     * @property {Function} reset                   - Stop the timer and reset elapsed time to zero.
+     */
+
+    /**
+     * Callback function to update a score display.
+     * @callback scoreCallback
+     * 
+     * @param {number} score                        - The new score value.
+     * @returns {void}
+     */
+
+    /**
      * @param {HTMLElement} map                     - Container for all the game elements.
      * @param {HTMLInputElement} input              - Text input field for player guesses.
-     * @param {Function} validator                  - Function mapping 
+     * @param {validateCallback} validate          - Callback to validate input names.
      * @param {number} maxScore                     - The total number of things to name.
-     * 
      * @param {Object} options                      - Configuration options.
-     * @param {Timer} [options.timer]               -
-     * @param {} [options.showScore]
+     * 
+     * @param {Timer} [options.timer]               - Optional {@link Timer} will be started on first click.
+     * @param {scoreCallback} [options.showScore]   - Optional callback, called each time score changes.
      * @param {boolean} [options.catchAllKeys=true] - If true, automatically focus input element on keydown.
      * @param {boolean} [options.cleanInputs=true]  - If true, apply this.clean to inputs before validating.
      */
-    constructor(map, input, validator, maxScore, options={}) {
+    constructor(map, input, validate, maxScore, options={}) {
         this.map = map;
         this.input = input;
-        this.validator = validator;
+        this.validate = validate;
         this.focused = null;
         this.started = false;
         this.score = 0;
@@ -33,7 +58,7 @@ export default class Game {
 
         // Add event handlers
         this.map.addEventListener("click", event => this.handleClick(event.target));
-        this.input.addEventListener("change", () => this.validate());
+        this.input.addEventListener("change", () => this.checkName());
         if (this.catchAllKeys) {
             this.map.addEventListener("keydown", () => {
                 this.input.focus();
@@ -45,38 +70,61 @@ export default class Game {
     }
 
     /**
-     * Finds the closest <g> ancestor of the input element.
-     * @param {SVGElement} target
+     * Finds the closest <g> element ancestor of target.
+     * 
+     * @param {SVGElement} target                   - The element to begin search from.
+     * @returns {SVGElement|null}                   - The closest ancestor <g> element (if any).
      */
-    handleClick(target) {
+    findGroup(target) {
         let element = target;
         while (element.tagName) {
-            if (
-                (element.tagName == "g") &&
-                (this.focused !== element) &&
-                (!element.classList.contains("solved"))
-            ) {
-                if (this.focused) {
-                    this.focused.classList.remove("focused");
-                }
-                element.classList.add("focused");
-                this.focused = element;
-                this.input.value = "";
-                if (!this.started) {
-                    this.timer.start()
-                    this.input.style.textTransform = "uppercase";
-                    this.started = true;
-                }
-                this.input.focus();
-                break;
+            if (element.tagName == "g") {
+                return element;
             }
             element = element.parentNode;
+        }
+        return null;
+    }
+
+    /**
+     * Click handler for map element.
+     * 
+     * If target is child of an unsolved <g> element, make that the focused element.
+     * 
+     * @param {SVGElement} target                   - Target of click event.
+     * @returns {void}
+     */
+    handleClick(target) {
+        const group = this.findGroup(target);
+        if (
+            (group !== null) &&
+            (group !== this.focused) &&
+            (!group.classList.contains("solved"))
+        ) {
+            if (this.focused) {
+                this.focused.classList.remove("focused");
+            }
+            group.classList.add("focused");
+            this.focused = group;
+            this.input.value = "";
+            if (!this.started) {
+                this.timer.start()
+                this.input.style.textTransform = "uppercase";
+                this.started = true;
+            }
+            this.input.focus();
         }
     }
 
     /**
+     * Clean input string according to the following steps:
+     * - Remove leading "the " if present
+     * - Replace hyphens with spaces
+     * - Remove excess whitespace
+     * - Remove any accents
      * 
-     * @param {string} raw 
+     * @param {string} raw                          - Input text to be cleaned.
+     * @returns {string}                            - Cleaned output.
      */
     clean(raw) {
         return raw.toLowerCase()
@@ -89,19 +137,24 @@ export default class Game {
     }
 
     /**
+     * Check if current text input is an acceptable name for the focused element.
      * 
+     * @returns {void}
      */
-    validate() {
+    checkName() {
         let name = this.input.value
         if (this.cleanInputs) {
             name = this.clean(name);
         }
-        if (this.validator(this.focused.id, name)) {
+        if (this.validate(this.focused.id, name)) {
             this.focused.classList.remove("focused");
             this.focused.classList.add("solved");
             this.focused = null;
             this.input.value = "";
             this.showScore(++this.score);
+            if (this.score == this.maxScore) {
+                // TODO: End game
+            }
         }
     }
 }
