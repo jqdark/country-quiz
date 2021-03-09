@@ -82,9 +82,7 @@ export default class Timer {
      * @returns {void}
      */
     reset() {
-        if (this.running) {
-            this.stop();
-        }
+        this.stop();
         this.elapsed = 0;
         this.display(this.elapsed);
     }
