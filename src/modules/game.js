@@ -34,7 +34,7 @@ export default class Game {
      * @param {HTMLInputElement} input              - Text input field for player guesses.
      * @param {validateCallback} validate          - Callback to validate input names.
      * @param {number} maxScore                     - The total number of things to name.
-     * @param {Object} options                      - Configuration options.
+     * @param {Object} [options]                     - Configuration options.
      * 
      * @param {Timer} [options.timer]               - Optional {@link Timer} will be started on first click.
      * @param {scoreCallback} [options.showScore]   - Optional callback, called each time score changes.
@@ -153,7 +153,7 @@ export default class Game {
             this.input.value = "";
             this.showScore(++this.score);
             if (this.score == this.maxScore) {
-                // TODO: End game
+                this.timer?.stop?.();
             }
         }
     }
