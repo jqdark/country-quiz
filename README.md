@@ -33,7 +33,7 @@ Or build the app for deployment:
 ## Planned Improvements
 
 - Add support for small screens and touch controls.
-- Separate out code for 
+- Separate out generic code for click-and-name games from any quiz-specific data.
 
 ## License
 
